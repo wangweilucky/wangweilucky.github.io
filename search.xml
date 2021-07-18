@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>wangdaji</title>
-    <url>/2021/07/15/wangdaji/</url>
-    <content><![CDATA[<h2 id="iOSer"><a href="#iOSer" class="headerlink" title="iOSer"></a>iOSer</h2><p>asdfasd</p>
-<span id="more"></span>
-]]></content>
+    <title>iOS存储优化</title>
+    <url>/2021/07/18/iOS%E5%AD%98%E5%82%A8%E4%BC%98%E5%8C%96/</url>
+    <content><![CDATA[]]></content>
       <categories>
-        <category>个人经历</category>
+        <category>iOS性能优化-存储优化</category>
       </categories>
       <tags>
-        <tag>生活</tag>
+        <tag>mmap</tag>
+        <tag>性能优化</tag>
       </tags>
   </entry>
 </search>
